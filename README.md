@@ -1,4 +1,4 @@
-# angular-simple-web-app
+# Angular simple web application
 Simple dashboard application in angular
 Demonstration of below things
 
