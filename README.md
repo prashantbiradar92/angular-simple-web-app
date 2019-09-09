@@ -5,4 +5,5 @@ Demonstration of below things
 ## 1. contains top bar
 ## 2. contains sidebar
 ## 3. contains dashboard
-## 4. Testing
+## 4. Basic angular routing
+## 5. Testing
